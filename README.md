@@ -1,3 +1,10 @@
+---
+# Просмотров страницы
+
+![](https://count.getloli.com/get/@artemilin-2023.github.readme)
+
+</br>
+
 # 💫 About Me:
 Студент МАИ, 304 кафедра <br>Работаю в IT-Center MAI<br>fullstack .net + vue junior разработчик
 
@@ -13,8 +20,4 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=artemilin-2023&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=artemilin-2023&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
